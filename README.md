@@ -1,16 +1,18 @@
-### Hi there 👋
+# Projects and experiments by Chris Gough
 
-<!--
-**cngough/cngough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
+Employed in financial tech sector using Java.
 
-Here are some ideas to get you started:
+Exploring [Advent of Code](https://adventofcode.com/) using Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rapid prototyping of ideas using [PICO-8](https://www.lexaloffle.com/pico-8.php).
+
+## Future Projects
+Many, TBD
+
+## Parked Projects
+Discord Bot written in Python.
+
+SourcePawn scripts for a Counter Strike: Source server.
+
+Quality of life Bash scripts.
