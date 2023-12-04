@@ -1,7 +1,7 @@
 # Projects and experiments by Chris Gough
 
 ## Current Projects
-Employed in financial tech sector using Java.
+Employed in financial tech sector, currently building using Java.
 
 Exploring [Advent of Code](https://adventofcode.com/) using Kotlin.
 
