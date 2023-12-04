@@ -7,7 +7,7 @@ Exploring [Advent of Code](https://adventofcode.com/) using Kotlin.
 
 Rapid prototyping of ideas using [PICO-8](https://www.lexaloffle.com/pico-8.php).
 
-Building my own flavour Linux using [PiLFS](https://intestinate.com/pilfs/). 
+Building my own flavour Linux using [LFS](https://www.linuxfromscratch.org/) and [PiLFS](https://intestinate.com/pilfs/). 
 
 ## Future Projects
 Many, TBD
